@@ -1,3 +1,4 @@
+//input
 #include <iostream>
 using namespace std;
 
@@ -57,7 +58,7 @@ int main()
 }
 
 
-output
+//output
 Enter number of elements: 6
 Enter elements: 12 11 13 5 6 7
 Sorted array using Max Heap: 5 6 7 11 12 13 
